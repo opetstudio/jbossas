@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure>
+  <deployment>
+    <dependencies>
+	   <module name="com.solusi247.djava" />
+  	  <module name="org.jboss.netty" />
+	  <module name="org.apache.httpcomponentsbaru"/>
+	  <module name="org.json.simple"/>
+	  <module name="com.mongojavadriver"  slot="3.0.4"/>
+	  <module name="com.opedio.jboss.lib"  slot="main"/>
+    </dependencies>
+  </deployment>
+</jboss-deployment-structure>

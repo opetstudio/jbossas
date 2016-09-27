@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<server>
+	<mbean code="com.opedio.jboss.service.discus.ManagementAgent" name="com.solusi247:service=SsDiscus">
+<!--
+		<attribute name="JndiDatasource">java:/SmsGwDS</attribute>
+-->
+
+	</mbean>
+
+
+</server>
+

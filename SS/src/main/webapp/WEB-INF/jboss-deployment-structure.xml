@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure>
+  <deployment>
+    <dependencies>
+      <module name="com.solusi247.djava" slot="main" />
+      <module name="com.solusi247.iprestrict" slot="1.0" />
+      <module name="org.json.simple"  slot="main"/>
+      <module name="com.mongojavadriver"  slot="3.0.4"/>
+      <module name="com.opedio"/>
+      <!-- <module name="com.restfb"  slot="main"/> -->
+    </dependencies>
+  </deployment>
+</jboss-deployment-structure>
+
+
